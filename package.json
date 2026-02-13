@@ -1,0 +1,17 @@
+{
+  "name": "multiagents",
+  "version": "1.0.0",
+  "description": "Utility library with number utilities",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "test": "node --test"
+  },
+  "keywords": [
+    "utilities",
+    "number",
+    "helpers"
+  ],
+  "author": "",
+  "license": "ISC"
+}
