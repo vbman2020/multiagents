@@ -1,0 +1,23 @@
+{
+  "name": "multiagents",
+  "version": "1.0.0",
+  "description": "Array utility module with unique and flatten functions",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "test": "vitest run",
+    "test:watch": "vitest",
+    "build": "tsc",
+    "dev": "tsc --watch"
+  },
+  "keywords": [
+    "array",
+    "utilities"
+  ],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "vitest": "^1.2.0",
+    "typescript": "^5.3.0"
+  }
+}
