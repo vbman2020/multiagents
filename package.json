@@ -1,16 +1,25 @@
 {
   "name": "multiagents",
   "version": "1.0.0",
-  "description": "Multi-agent system utilities",
+  "description": "TypeScript utility library with math functions for multi-agent systems, including clamp, lerp, and roundTo utilities with robust edge case handling",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
+  "keywords": [
+    "math",
+    "utilities",
+    "multi-agent",
+    "clamp",
+    "lerp",
+    "interpolation",
+    "round",
+    "typescript"
+  ],
   "scripts": {
     "build": "tsc",
     "test": "jest",
     "test:watch": "jest --watch",
     "test:coverage": "jest --coverage"
   },
-  "keywords": [],
   "author": "",
   "license": "ISC",
   "devDependencies": {
