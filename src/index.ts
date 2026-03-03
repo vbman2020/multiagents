@@ -3,3 +3,4 @@
  */
 
 export { clamp, lerp, roundTo } from './utils/math-utils';
+export { parseXml, stringifyXml, validateXml, XmlElement, ValidationResult } from './utils/xml-utils';
